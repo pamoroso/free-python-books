@@ -99,9 +99,11 @@ Thanks!
 ### Web development
 
 - [Create a Simple Flask Application with Cloud9, Heroku and MongoDB](https://leanpub.com/flask-cloud9-heroku-mongodb-ebook)
+- [Super Crash Course in Full Stack Web Development with Python and Django](http://www.codexplore.io/books/crash-course/)
 
 ### Data science
 
+- [Effective Pandas](https://leanpub.com/effective-pandas)
 - [Python for Everybody: Exploring Data In Python 3](https://py4e.com/book.php)
 
 ### Science
