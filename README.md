@@ -113,7 +113,7 @@ Thanks!
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [Python for Scientists and Engineers](https://www.pythonforengineers.com/python-for-scientists-and-engineers/)
 
-### Jupiter Notebook
+### Jupyter Notebook
 
 - [Teaching and Learning with Jupyter](https://jupyter4edu.github.io/jupyter-edu-book/)
 
