@@ -67,6 +67,7 @@ Thanks!
 ### Advanced
 
 - [A Python Book: Beginning Python, Advanced Python, and Python Exercises](http://www.davekuhlman.org/python_book_01.html)
+- [Python 3 Patterns, Recipes and Idioms](https://python-3-patterns-idioms-test.readthedocs.io/en/latest/index.html)
 - [Python Notes for Professionals](https://goalkicker.com/PythonBook/)
 
 ### AI and Machine Learning
