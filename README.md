@@ -113,6 +113,7 @@ Thanks!
 
 - [Getting Started With Python In The Lab: An Introductory Python Tutorial For Life Scientists](https://leanpub.com/gettingstartedwithpythoninthelab)
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- [Python for Astronomers: An Introduction to Scientific Computing](https://prappleizer.github.io/)
 - [Python for Scientists and Engineers](https://www.pythonforengineers.com/python-for-scientists-and-engineers/)
 
 ### Jupyter Notebook
