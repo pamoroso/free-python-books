@@ -88,7 +88,7 @@ Thanks!
 - [Clean Architectures in Python: A practical approach to better software design](https://leanpub.com/clean-architectures-in-python)
 - [Object Oriented Programming with Python: Learn essentials of OOP with Python 3](https://leanpub.com/PythonOOP)
 - [Test-Driven Development with Python](https://www.obeythetestinggoat.com/pages/book.html)
-- [The Hitchhiker’s Guide to Python!](https://docs.python-guide.org/)
+- [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
 - [The Little Book of Python Anti-Patterns](https://docs.quantifiedcode.com/python-anti-patterns/)
 
 ### GUI
