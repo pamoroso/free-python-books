@@ -107,6 +107,7 @@ Thanks!
 
 ### Data science
 
+- [Data Science in Production: Building Scalable Model Pipelines with Python](https://www.amazon.com/dp/B083H2YWP4)
 - [Effective Pandas](https://leanpub.com/effective-pandas)
 - [Python for Everybody: Exploring Data In Python 3](https://py4e.com/book.php)
 
