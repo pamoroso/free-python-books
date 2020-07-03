@@ -86,6 +86,7 @@ Thanks!
 
 ### Software Engineering and best practices
 
+- [Architecture Patterns with Python](http://www.cosmicpython.com/book/preface.html)
 - [Clean Architectures in Python: A practical approach to better software design](https://leanpub.com/clean-architectures-in-python)
 - [Object Oriented Programming with Python: Learn essentials of OOP with Python 3](https://leanpub.com/PythonOOP)
 - [Test-Driven Development with Python](https://www.obeythetestinggoat.com/pages/book.html)
