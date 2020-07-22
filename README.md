@@ -2,9 +2,30 @@
 
 A list of Python books in English that are free to read online or download.
 
-## TL;DR
+## Table of Contents
 
-[Skip to the list of books](#list-of-free-python-books).
+- [How the list got started](#how-the-list-got-started)
+- [What's in the list](#whats-in-the-list)
+- [Why free books?](#why-free-books)
+- [Acknowledgments](#acknowledgments)
+- [How to contribute](#how-to-contribute)
+- [List of free Python books](#list-of-free-python-books)
+  - [Introductory](#introductory)
+  - [Intermediate](#intermediate)
+  - [Advanced](#advanced)
+  - [AI and Machine Learning](#ai-and-machine-learning)
+  - [Computer Science](#computer-science)
+  - [Software Engineering and best practices](#software-engineering-and-best-practices)
+  - [GUI](#gui)
+  - [Tools](#tools)
+  - [Web development](#web-development)
+  - [Data science](#data-science)
+  - [Science](#science)
+  - [Jupiter Notebook](#jupyter-notebook)
+  - [Cryptography](#cryptography)
+  - [Games](#games)
+- [Lists of free Python books](#lists-of-free-python-books)
+- [License](#license)
 
 ## How the list got started
 
@@ -32,7 +53,7 @@ The entries are grouped by category or application domain and include coverage a
 
 Some redditors shared links to other list of free programming books, some of which are about Python. I've included them too but there's of course some overlap with mine.
 
-## Why free?
+## Why free books?
 
 I don't mind paid content. In fact, I also purchased great paid Python ebooks and online resources and I'm going to get more.
 
@@ -86,7 +107,6 @@ Thanks!
 
 ### Software Engineering and best practices
 
-- [Architecture Patterns with Python](http://www.cosmicpython.com/book/preface.html)
 - [Clean Architectures in Python: A practical approach to better software design](https://leanpub.com/clean-architectures-in-python)
 - [Object Oriented Programming with Python: Learn essentials of OOP with Python 3](https://leanpub.com/PythonOOP)
 - [Test-Driven Development with Python](https://www.obeythetestinggoat.com/pages/book.html)
