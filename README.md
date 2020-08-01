@@ -1,3 +1,5 @@
+![Free Python Books project logo](https://github.com/pamoroso/free-python-books/blob/master/free-python-books-logo.jpg)
+
 # Free Python Books
 
 A list of Python books in English that are free to read online or download.
