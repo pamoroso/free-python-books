@@ -76,6 +76,7 @@ Thanks!
 ### Introductory
 
 - [A Byte of Python](https://python.swaroopch.com/)
+- [Code With Repl.it: Python Projects for Beginners](https://www.codewithrepl.it/python-projects-for-beginners.html)
 - [Dive Into Python 3](https://www.cmi.ac.in/~madhavan/courses/prog2-2012/docs/diveintopython3/index.html)
 - [Exploring Python Basics](https://www.manning.com/books/exploring-python-basics)
 - [Non-Programmer's Tutorial for Python 3](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3)
