@@ -97,6 +97,7 @@ Thanks!
 
 ### AI and Machine Learning
 
+- [Machine Learning from Scratch: Derivations in Concept and Code](https://dafriedman97.github.io/mlbook/content/introduction.html)
 - [Natural Language Processing with Python](http://www.nltk.org/book/)
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 - [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
