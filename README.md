@@ -24,6 +24,7 @@ A list of Python books in English that are free to read online or download.
   - [Data science](#data-science)
   - [Science](#science)
   - [Jupiter Notebook](#jupyter-notebook)
+  - [Engineering](#engineering)
   - [Cryptography](#cryptography)
   - [Games](#games)
 - [Lists of free Python books](#lists-of-free-python-books)
@@ -147,6 +148,10 @@ Thanks!
 ### Jupyter Notebook
 
 - [Teaching and Learning with Jupyter](https://jupyter4edu.github.io/jupyter-edu-book/)
+
+### Engineering
+
+- [PySDR: A Guide to SDR and DSP using Python](https://pysdr.org)
 
 ### Cryptography
 
