@@ -76,18 +76,20 @@ Thanks!
 
 ### Introductory
 
-- [A Byte of Python](https://python.swaroopch.com/)
+- [100 Page Python Intro](https://learnbyexample.github.io/100_page_python_intro)
+- [A Byte of Python](https://python.swaroopch.com)
 - [Code With Repl.it: Python Projects for Beginners](https://www.codewithrepl.it/python-projects-for-beginners.html)
 - [Exploring Python Basics](https://www.manning.com/books/exploring-python-basics)
 - [Learn Python the Right Way](https://learnpythontherightway.com)
 - [Non-Programmer's Tutorial for Python 3](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3)
 - [Python 101](https://python101.pythonlibrary.org/)
-- [Slither Into Python](https://www.slitherintopython.com/)
+- [Slither Into Python](https://www.slitherintopython.com)
 
 ### Intermediate
 
 - [Boxes: Your Second Python Book](http://ralsina.gitlab.io/boxes-book/)
 - [Intermediate Python](https://leanpub.com/intermediatepython)
+- [Python re(gex)?](https://learnbyexample.github.io/py_regular_expressions/)
 - [Python Tips: Intermediate Python](http://book.pythontips.com/en/latest/index.html)
 
 ### Advanced
