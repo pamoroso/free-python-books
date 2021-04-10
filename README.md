@@ -162,6 +162,7 @@ Thanks!
 
 ### Games
 
+- [Coding Games With Pygame Zero & Python](https://github.com/electronstudio/pygame-zero-book)
 - [Invent Your Own Computer Games with Python](https://inventwithpython.com/invent4thed/)
 - [Learn Python With Arcade Academy](https://arcade-book.readthedocs.io/en/latest/)
 - [Making Games with Python & Pygame](http://inventwithpython.com/pygame/)
