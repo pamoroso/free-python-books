@@ -1,0 +1,2 @@
+Hola, esta es la primera practica con git, en esta practica estamos aprendiendo los comandos:
+git init,git status, git add, git commint -m "xd"
