@@ -156,6 +156,7 @@ Thanks!
 ### Engineering
 
 - [PySDR: A Guide to SDR and DSP using Python](https://pysdr.org)
+- [Python for network engineers](https://pyneng.readthedocs.io/en/latest)
 
 ### Cryptography
 
