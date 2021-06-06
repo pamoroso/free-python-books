@@ -126,6 +126,7 @@ Thanks!
 ### GUI
 
 - [Create Simple GUI Applications](https://leanpub.com/create-simple-gui-applications/read)
+- [PyWebIO](https://pywebio.readthedocs.io/en/latest/)
 
 ### Tools
 
