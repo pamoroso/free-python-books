@@ -23,7 +23,7 @@ A list of Python books in English that are free to read online or download.
   - [Web development](#web-development)
   - [Data science](#data-science)
   - [Science](#science)
-  - [Jupiter Notebook](#jupyter-notebook)
+  - [Jupyter Notebook](#jupyter-notebook)
   - [Engineering](#engineering)
   - [Cryptography](#cryptography)
   - [Games](#games)
@@ -141,15 +141,16 @@ Thanks!
 
 - [Data Science in Production: Building Scalable Model Pipelines with Python](https://www.amazon.com/dp/B083H2YWP4)
 - [Effective Pandas](https://leanpub.com/effective-pandas)
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [Python for Everybody: Exploring Data In Python 3](https://py4e.com/book.php)
 
 ### Science
 
 - [Getting Started With Python In The Lab: An Introductory Python Tutorial For Life Scientists](https://leanpub.com/gettingstartedwithpythoninthelab)
-- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [Python for Astronomers: An Introduction to Scientific Computing](https://prappleizer.github.io/)
 - [Python & OpenGL for Scientific Visualization](https://www.labri.fr/perso/nrougier/python-opengl/)
 - [Python for Scientists and Engineers](https://www.pythonforengineers.com/python-for-scientists-and-engineers/)
+- [Scientific Visualization: Python + Matplotlib](https://www.labri.fr/perso/nrougier/scientific-visualization.html)
 
 ### Jupyter Notebook
 
