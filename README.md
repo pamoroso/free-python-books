@@ -111,6 +111,7 @@ Thanks!
 ### Computer Science
 
 - [Annotated Algorithms in Python - With applications in Physics, Biology, and Finance](https://github.com/mdipierro/nlib)
+- [Data Structures and Information Retrieval in Python](https://allendowney.github.io/DSIRP)
 - [How to Think Like a Computer Scientist: Interactive Edition](https://interactivepython.org/courselib/static/thinkcspy/index.html)
 - [Problem Solving with Algorithms and Data Structures using Python](https://interactivepython.org/runestone/static/pythonds/index.html#problem-solving-with-algorithms-and-data-structures-using-python)
 - [Think Python: How to Think Like a Computer Scientist](https://greenteapress.com/wp/think-python-2e/)
