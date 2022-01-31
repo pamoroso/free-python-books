@@ -133,6 +133,7 @@ Thanks!
 ### Tools
 
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+- [Practical Python Projects](https://practicalpython.yasoob.me/toc.html)
 
 ### Web development
 
