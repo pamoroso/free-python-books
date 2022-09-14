@@ -155,6 +155,7 @@ Thanks!
 - [Python & OpenGL for Scientific Visualization](https://www.labri.fr/perso/nrougier/python-opengl/)
 - [Python for Scientists and Engineers](https://www.pythonforengineers.com/python-for-scientists-and-engineers/)
 - [Scientific Visualization: Python + Matplotlib](https://www.labri.fr/perso/nrougier/scientific-visualization.html)
+- [Think Complexity](https://greenteapress.com/complexity2/html/index.html)
 
 ### Jupyter Notebook
 
