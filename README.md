@@ -140,6 +140,7 @@ Thanks!
 
 - [Create a Simple Flask Application with Cloud9, Heroku and MongoDB](https://leanpub.com/flask-cloud9-heroku-mongodb-ebook)
 - [Zero to production web apps](https://pgjones.gitlab.io/zero-to-production-book/introduction/)
+- [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 
 ### Data science
 
