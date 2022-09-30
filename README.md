@@ -156,6 +156,7 @@ Thanks!
 - [Python for Scientists and Engineers](https://www.pythonforengineers.com/python-for-scientists-and-engineers/)
 - [Scientific Visualization: Python + Matplotlib](https://www.labri.fr/perso/nrougier/scientific-visualization.html)
 - [Think Complexity](https://greenteapress.com/complexity2/html/index.html)
+- [Think Bayes 2](http://allendowney.github.io/ThinkBayes2/)
 
 ### Jupyter Notebook
 
