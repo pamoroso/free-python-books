@@ -108,6 +108,7 @@ Thanks!
 - [Natural Language Processing with Python](http://www.nltk.org/book/)
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 - [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
+- [Deep Learning and Machine Learning](https://www.interviewbit.com/blog/deep-learning-vs-machine-learning/)
 
 ### Computer Science
 
