@@ -88,6 +88,7 @@ Thanks!
 - [Python 101](https://python101.pythonlibrary.org/)
 - [Slither Into Python](https://www.slitherintopython.com)
 - [The Python Coding Book: Understanding what programming really is](https://thepythoncodingbook.com)
+- [Coding for Economists](https://aeturrell.github.io/coding-for-economists)
 
 ### Intermediate
 
