@@ -80,6 +80,7 @@ Thanks!
 - [A Byte of Python](https://python.swaroopch.com)
 - [An Introduction to Python for Linguists](https://v4py.github.io/intro.html)
 - [Code With Repl.it: Python Projects for Beginners](https://www.codewithrepl.it/python-projects-for-beginners.html)
+- [Coding for Economists](https://aeturrell.github.io/coding-for-economists)
 - [Exploring Python Basics](https://www.manning.com/books/exploring-python-basics)
 - [Full Speed Python](https://github.com/joaoventura/full-speed-python)
 - [How To Code in Python](https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python)
@@ -88,7 +89,6 @@ Thanks!
 - [Python 101](https://python101.pythonlibrary.org/)
 - [Slither Into Python](https://www.slitherintopython.com)
 - [The Python Coding Book: Understanding what programming really is](https://thepythoncodingbook.com)
-- [Coding for Economists](https://aeturrell.github.io/coding-for-economists)
 
 ### Intermediate
 
