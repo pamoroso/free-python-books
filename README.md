@@ -1,3 +1,5 @@
+**This project is no longer maintained.** The repo is read-only and doesn't accept new contributions. If you're interested you may fork the repo and maintain your copy.
+
 ![Free Python Books project logo](https://github.com/pamoroso/free-python-books/blob/master/free-python-books-logo.jpg)
 
 # Free Python Books
@@ -10,7 +12,6 @@ A list of Python books in English that are free to read online or download.
 - [What's in the list](#whats-in-the-list)
 - [Why free books?](#why-free-books)
 - [Acknowledgments](#acknowledgments)
-- [How to contribute](#how-to-contribute)
 - [List of free Python books](#list-of-free-python-books)
   - [Introductory](#introductory)
   - [Intermediate](#intermediate)
@@ -65,12 +66,6 @@ However, free ebooks have several advantages such as often coming in additional 
 ## Acknowledgments
 
 Thanks to the redditors who contributed book suggestions and links in [my original post](https://www.reddit.com/r/Python/comments/anfdyh/free_python_books/): AlSweigart, ASIC_SP, Bisalsn, bitcoin-dude, code_x_7777m isakar-elahim, lask757, mfitzp, pvc, warbird2k.
-
-## How to contribute
-
-If you have books to suggest you can do a pull request or create an issue. Creating an issue is also a good way of providing other feedback.
-
-Thanks!
 
 ## List of free Python books
 
